@@ -10,36 +10,36 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
+              href='https://www.amazon.com/'
               src='images/Amazon_logo.png'
               text='Amazon'
               label='Bay Area, CA'
-              target="_blank"
             />
             <CardItem
+              href='https://beatbread.com/'
               src='images/beatBread_logo.jpeg'
               text='beatBread'
               label='St. George, UT'
-              path='/Projects'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/byucs_logo.jpg'
+              href='https://cs.byu.edu/'
+              src='images/byu_logo.png'
               text='BYU Computer Science'
               label='Provo, UT'
-              path='/Projects'
             />
             <CardItem
+              href='https://applaudostudios.com/'
               src='images/applaudoStudios_logo.jpeg'
               text='Applaudo Studios'
               label='San Salvador, ESA'
-              path='/Resume'
             />
             <CardItem
+              href='https://www.gruporoble.com/'
               src='images/gruporoble_logo.jpg'
               text='Grupo Roble'
               label='San Salvador, ESA'
-              path='/sign-up'
             />
           </ul>
         </div>

@@ -1,7 +1,5 @@
 import React from 'react';
 import './Footer.css';
-import { Button } from './Button';
-import { Link } from 'react-router-dom';
 
 function Footer() {
   return (
@@ -14,6 +12,7 @@ function Footer() {
               href='https://github.com/ErnestAV'
               target='_blank'
               aria-label='Github'
+              rel="noopener noreferrer"
             >
               <i class='fab fa-github' />
             </a>
@@ -43,6 +42,9 @@ function Footer() {
             </a>
           </div>
         </div>
+      </section>
+      <section>
+        <img className='logo' src='EV_logo1.png' alt='EV-Logo'/>
       </section>
     </div>
   );
