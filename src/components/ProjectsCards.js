@@ -10,24 +10,24 @@ function ProjectsCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              href='https://www.amazon.com/'
-              src='images/Amazon_logo.png'
-              text='Amazon'
-              label='Bay Area, CA'
+              href='https://interrecipes.netlify.app/'
+              src='images/InterRecipesT.png'
+              text='InterRecipes'
+              label='Website'
             />
             <CardItem
-              href='https://beatbread.com/'
-              src='images/beatBread_logo.jpeg'
-              text='beatBread'
-              label='St. George, UT'
+              href='https://github.com/ErnestAV/FamilyMapClientAndroidS'
+              src='images/FamilyMap.jpeg'
+              text='Family Map'
+              label='Android App'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              href='https://cs.byu.edu/'
-              src='images/byu_logo.png'
-              text='BYU Computer Science'
-              label='Provo, UT'
+              href='https://github.com/ErnestAV/BloodMatchingProjectOld'
+              src='images/bmp_logo.jpeg'
+              text='Blood Matching Project'
+              label='Modified for NDA'
             />
             <CardItem
               href='https://applaudostudios.com/'
