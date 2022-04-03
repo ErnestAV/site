@@ -2,10 +2,10 @@ import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
 
-function Cards() {
+function ProjectsCards() {
   return (
     <div className='cards'>
-      <h1>Where I've worked:</h1>
+      <h1>Personal Projects</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -48,4 +48,4 @@ function Cards() {
   );
 }
 
-export default Cards;
+export default ProjectsCards;
