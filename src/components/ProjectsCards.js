@@ -30,16 +30,16 @@ function ProjectsCards() {
               label='Modified for NDA'
             />
             <CardItem
-              href='https://applaudostudios.com/'
-              src='images/applaudoStudios_logo.jpeg'
-              text='Applaudo Studios'
-              label='San Salvador, ESA'
+              href='https://github.com/ErnestAV/SpellingCorrector'
+              src='images/sc_logo.png'
+              text='Spelling Corrector'
+              label='Java'
             />
             <CardItem
-              href='https://www.gruporoble.com/'
-              src='images/gruporoble_logo.jpg'
-              text='Grupo Roble'
-              label='San Salvador, ESA'
+              href='https://github.com/ErnestAV/ConvexSolver'
+              src='images/convex_logo.jpeg'
+              text='Convex Solver'
+              label='Python'
             />
           </ul>
         </div>

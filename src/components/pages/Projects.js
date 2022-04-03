@@ -1,6 +1,13 @@
 import React from 'react';
 import '../../App.css';
+import ProjectsCards from '../ProjectsCards';
+import Footer from '../Footer';
 
 export default function Projects() {
-  return <h1 className='Projects'>Projects</h1>;
+  return (
+    <>
+      <ProjectsCards />
+      <Footer />
+    </>
+  );
 }

@@ -24,9 +24,10 @@
   margin-left: 20px;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
   display: flex;
   align-items: center;
+  width: 110px;
+  height: auto;
 }
 
 .fa-typo3 {

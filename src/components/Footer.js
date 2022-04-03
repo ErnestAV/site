@@ -21,14 +21,16 @@ function Footer() {
               href='/'
               target='_blank'
               aria-label='Instagram'
+              rel="noopener noreferrer"
             >
               <i class='fab fa-instagram' />
             </a>
             <a
               class='social-icon-link youtube'
-              href='/'
+              href='https://www.youtube.com/channel/UC1H0HHPnm-ldeHc4hKGJ6Zw'
               target='_blank'
               aria-label='Youtube'
+              rel="noopener noreferrer"
             >
               <i class='fab fa-youtube' />
             </a>
@@ -37,6 +39,7 @@ function Footer() {
               href='/'
               target='_blank'
               aria-label='LinkedIn'
+              rel="noopener noreferrer"
             >
               <i class='fab fa-linkedin' />
             </a>
@@ -44,7 +47,7 @@ function Footer() {
         </div>
       </section>
       <section>
-        <img className='logo' src='EV_logo1.png' alt='EV-Logo'/>
+        <img className='logo' src='EV_WhiteLogo.png' alt='EV-Logo'/>
       </section>
     </div>
   );
