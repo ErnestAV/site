@@ -1,17 +1,17 @@
 import React from 'react';
 import '../../App.css';
-import HeroSection from '../HeroSection';
-import Footer from '../Footer';
-import JobsCards from '../JobsCards';
-import ProjectsCards from '../ProjectsCards';
+// import HeroSection from '../HeroSection';
+// import Footer from '../Footer';
+// import JobsCards from '../JobsCards';
+// import ProjectsCards from '../ProjectsCards';
 
 function Home() {
   return (
     <>
-      <HeroSection />
+      {/* <HeroSection />
       <JobsCards />
       <ProjectsCards />
-      <Footer />
+      <Footer /> */}
     </>
   );
 }
