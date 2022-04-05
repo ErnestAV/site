@@ -27,7 +27,7 @@ function Footer() {
             </a>
             <a
               class='social-icon-link youtube'
-              href='https://www.youtube.com/channel/UC1H0HHPnm-ldeHc4hKGJ6Zw'
+              href='/'
               target='_blank'
               aria-label='Youtube'
               rel="noopener noreferrer"
