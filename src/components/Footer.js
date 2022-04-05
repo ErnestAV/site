@@ -16,7 +16,7 @@ function Footer() {
             >
               <i class='fab fa-github' />
             </a>
-            {/* <a
+            <a
               class='social-icon-link instagram'
               href='/'
               target='_blank'
@@ -24,8 +24,8 @@ function Footer() {
               rel="noopener noreferrer"
             >
               <i class='fab fa-instagram' />
-            </a> */}
-            {/* <a
+            </a>
+            <a
               class='social-icon-link youtube'
               href='https://www.youtube.com/channel/UC1H0HHPnm-ldeHc4hKGJ6Zw'
               target='_blank'
@@ -33,7 +33,7 @@ function Footer() {
               rel="noopener noreferrer"
             >
               <i class='fab fa-youtube' />
-            </a> */}
+            </a>
             <a
               class='social-icon-link twitter'
               href='/'
