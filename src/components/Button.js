@@ -20,7 +20,7 @@ export const Button = ({
 
   return (
     <a 
-      href='https://www.youtube.com/channel/UC1H0HHPnm-ldeHc4hKGJ6Zw' 
+      href='/' 
       target='_blank' 
       className='btn-mobile'
       rel="noopener noreferrer">
