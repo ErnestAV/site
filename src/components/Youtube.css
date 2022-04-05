@@ -75,6 +75,7 @@
 @media screen and (max-width: 768px) {
   .flexbox-container {
     flex-direction: column-reverse;
+    flex-wrap: wrap;
   }
 
   .flexbox-child {
@@ -84,14 +85,17 @@
 
   .youtube-title-box {
     text-align: center;
+    white-space: normal;
   }
 
   .youtube-title-box > h1 {
     font-size: 30px;
+    white-space: normal;
   }
 
   .youtube-title-box > p {
     font-size: 10px;
+    white-space: normal;
   }
 
   .btn-mobile {
