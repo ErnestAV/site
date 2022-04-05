@@ -22,8 +22,8 @@
 
 .flexbox-child {
   flex: 1;
-  border: 2px solid yellow;
-  background-color: aqua;
+  /* border: 2px solid yellow; */
+  /* background-color: aqua; */
 }
 
 .youtube-title-box {

@@ -59,6 +59,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  .title-box {
+    width: 100%;
+  }
+
   .title-box > h1 {
     font-size: 50px;
   }
