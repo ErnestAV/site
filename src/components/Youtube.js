@@ -6,7 +6,7 @@ import { Parallax } from 'react-parallax'
 
 function HeroSection() {
   return (
-    <Parallax bgImage='images/sf_bg.jpeg' strength={300}>
+    <Parallax bgImage='images/sf_bg.jpeg' strength={500}>
       <div className='youtube-container'> 
           <div className='flexbox-container'>
             <div className='flexbox-child'>
