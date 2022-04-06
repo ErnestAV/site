@@ -10,7 +10,7 @@ function ProjectsCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              href='https://interrecipes.netlify.app/'
+              href='https://interrecipes-155aa.web.app/'
               src='images/InterRecipesT.png'
               text='InterRecipes'
               label='Website'
