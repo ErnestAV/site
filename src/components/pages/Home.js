@@ -11,8 +11,8 @@ function Home() {
     <>
       <HeroSection />
       <JobsCards />
-      <ProjectsCards />
       <Youtube />
+      <ProjectsCards />
       <Footer />
     </>
   );

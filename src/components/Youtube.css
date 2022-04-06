@@ -39,7 +39,7 @@
 .youtube-container .youtube-title-box > h1 {
   /* color: #fff; */
   color: rgb(255, 255, 255);
-  /* -webkit-text-stroke: 1px rgb(1, 0, 0); */
+  -webkit-text-stroke: 1px rgb(1, 0, 0);
   /* text-shadow: 0 0 2px rgb(0, 0, 0); */
   font-size: 62px;
 }
@@ -47,7 +47,7 @@
 .youtube-container .youtube-title-box > p {
   /* color: #fff; */
   color: rgb(255, 255, 255);
-  /* -webkit-text-stroke: 1px rgb(1, 0, 0); */
+  -webkit-text-stroke: 1px rgb(1, 0, 0);
   /* text-shadow: 0 0 2px rgb(0, 0, 0); */
   font-size: 32px;
   padding-bottom: 20px;
