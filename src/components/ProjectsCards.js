@@ -13,13 +13,13 @@ function ProjectsCards() {
               href='https://interrecipes-155aa.web.app/'
               src='images/InterRecipesT.png'
               text='InterRecipes'
-              label='Website'
+              label='VueJS/Website'
             />
             <CardItem
               href='https://github.com/ErnestAV/FamilyMapClientAndroidS'
               src='images/FamilyMap.jpeg'
               text='Family Map'
-              label='Android App'
+              label='Java/Android App'
             />
           </ul>
           <ul className='cards__items'>
@@ -27,7 +27,7 @@ function ProjectsCards() {
               href='https://github.com/ErnestAV/BloodMatchingProjectOld'
               src='images/bmp_logo.jpeg'
               text='Blood Matching Project'
-              label='Modified for NDA'
+              label='C++/Modified for NDA'
             />
             <CardItem
               href='https://github.com/ErnestAV/SpellingCorrector'

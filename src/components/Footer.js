@@ -47,6 +47,9 @@ function Footer() {
         </div>
       </section>
       <section>
+        <p className='author-statement'>This site was developed by Ernesto Valencia using the React Framework</p>
+      </section>
+      <section>
         <img className='logo' src='EV_WhiteLogo.png' alt='EV-Logo'/>
       </section>
     </div>

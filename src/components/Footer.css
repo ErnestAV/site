@@ -8,8 +8,12 @@
   padding-bottom: 100px;
 }
 
-.logo {
+.author-statement {
   padding-top: 45px;
+  color: rgb(202, 202, 202);
+}
+
+.logo {
   width: 140px;
   height: auto;
 }
