@@ -16,7 +16,7 @@ function Footer() {
             >
               <i class='fab fa-github' />
             </a>
-            <a
+            {/* <a
               class='social-icon-link instagram'
               href='/'
               target='_blank'
@@ -24,7 +24,7 @@ function Footer() {
               rel="noopener noreferrer"
             >
               <i class='fab fa-instagram' />
-            </a>
+            </a> */}
             <a
               class='social-icon-link youtube'
               href='/'
