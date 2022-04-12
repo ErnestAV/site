@@ -25,7 +25,7 @@ function JobsCards() {
           <ul className='cards__items'>
             <CardItem
               href='https://beatbread.com/'
-              src='images/beatBread_logo.jpeg'
+              src='images/beatBread_logo.png'
               text='beatBread'
               label='Software Engineer Intern'
             />

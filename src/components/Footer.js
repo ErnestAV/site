@@ -16,23 +16,14 @@ function Footer() {
             >
               <i class='fab fa-github' />
             </a>
-            {/* <a
-              class='social-icon-link instagram'
-              href='/'
-              target='_blank'
-              aria-label='Instagram'
-              rel="noopener noreferrer"
-            >
-              <i class='fab fa-instagram' />
-            </a> */}
             <a
-              class='social-icon-link youtube'
-              href='/'
+              class='social-icon-link stack overflow'
+              href='https://stackoverflow.com/users/16856321/ernesto-valencia'
               target='_blank'
-              aria-label='Youtube'
+              aria-label='Stack Overflow'
               rel="noopener noreferrer"
             >
-              <i class='fab fa-youtube' />
+              <i class='fab fa-stack-overflow' />
             </a>
             <a
               class='social-icon-link twitter'
