@@ -10,36 +10,36 @@ function JobsCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
+              href='https://www.dish.com/'
+              src='images/Dish_logo.png'
+              text='DISH Network'
+              label='Associate Software Engineer'
+            />
+            <CardItem
               href='https://www.amazon.com/'
               src='images/Amazon_logo.png'
               text='Amazon'
-              label='Bay Area, CA'
-            />
-            <CardItem
-              href='https://beatbread.com/'
-              src='images/beatBread_logo.jpeg'
-              text='beatBread'
-              label='St. George, UT'
+              label='Software QA Engineer Intern'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
+              href='https://beatbread.com/'
+              src='images/beatBread_logo.jpeg'
+              text='beatBread'
+              label='Software Engineer Intern'
+            />
+            <CardItem
               href='https://cs.byu.edu/'
               src='images/byu_logo.png'
               text='BYU Computer Science'
-              label='Provo, UT'
+              label='Research/Teaching Assistant'
             />
             <CardItem
               href='https://applaudostudios.com/'
               src='images/applaudoStudios_logo.jpeg'
               text='Applaudo Studios'
-              label='San Salvador, ESA'
-            />
-            <CardItem
-              href='https://www.gruporoble.com/'
-              src='images/gruporoble_logo.jpg'
-              text='Grupo Roble'
-              label='San Salvador, ESA'
+              label='Software Engineer Trainee'
             />
           </ul>
         </div>
