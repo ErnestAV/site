@@ -10,9 +10,9 @@ function ProjectsCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              href='https://interrecipes-155aa.web.app/'
-              src='images/InterRecipesT.png'
-              text='InterRecipes'
+              href='https://mamakassrecipes.web.app/'
+              src='images/MamaKass_logo.png'
+              text='MamaKass'
               label='VueJS/Website'
             />
             <CardItem
