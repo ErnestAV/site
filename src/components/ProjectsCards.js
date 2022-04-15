@@ -11,7 +11,7 @@ function ProjectsCards() {
           <ul className='cards__items'>
             <CardItem
               href='https://mamakassrecipes.web.app/'
-              src='images/MamaKass_logo.png'
+              src='images/MamaKass_logo.jpg'
               text='MamaKass'
               label='VueJS/Website'
             />
