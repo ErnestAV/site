@@ -17,7 +17,13 @@ function HeroSection() {
               </div>
             </div>
             <div className='flexbox-child'>
-              <img id='profile-pic' src='images/youtube_photo.png' alt='Youtube Profile' />
+              <img 
+                id='profile-pic' 
+                src='images/youtube_photo.png' 
+                alt='Youtube Profile' 
+                draggable="false" 
+                ondragstart="return false;"
+                />
             </div>
           </div>
       </div>
