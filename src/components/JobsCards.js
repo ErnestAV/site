@@ -16,16 +16,16 @@ function JobsCards() {
               label='Associate Software Engineer'
             />
             <CardItem
-              href='https://www.amazon.com/'
-              src='images/Amazon_logo.png'
-              text='Amazon'
-              label='Software QA Engineer Intern'
+              href='https://amazon.jobs/en/teams/lab126/'
+              src='images/Lab126logo.avif'
+              text='Amazon Lab126'
+              label='Software Development Engineer Intern'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
               href='https://beatbread.com/'
-              src='images/beatBread_logo.png'
+              src='images/beatBread_logo.jpeg'
               text='beatBread'
               label='Software Engineer Intern'
             />
