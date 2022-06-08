@@ -10,6 +10,8 @@ function CardItem(props) {
               className='cards__item__img'
               alt='Logo'
               src={props.src}
+              draggable="false" 
+              ondragstart="return false;"
             />
           </figure>
           <div className='cards__item__info'>
