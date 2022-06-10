@@ -11,7 +11,7 @@ function JobsCards() {
           <ul className='cards__items'>
             <CardItem
               href='https://www.dish.com/'
-              src='images/Dish-sling.jpeg'
+              src='images/dish-sling.jpeg'
               text='DISH Network (Sling)'
               label='Associate Software Engineer'
             />
