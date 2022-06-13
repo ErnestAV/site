@@ -12,12 +12,12 @@ function JobsCards() {
             <CardItem
               href='https://www.dish.com/'
               src='images/dish-sling.jpeg'
-              text='DISH Network (Sling)'
+              text='DISH Network | Sling TV'
               label='Associate Software Engineer'
             />
             <CardItem
               href='https://amazon.jobs/en/teams/lab126/'
-              src='images/AmazonLab126_logo.avif'
+              src='images/AmazonLab126_logo.png'
               text='Amazon Lab126'
               label='Software Development Engineer Intern'
             />
