@@ -13,7 +13,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' onClick={closeMobileMenu}>
-            <img className='navbar-logo' src='EV_WhiteLogo.png' alt='Nav-Logo'/>
+            <img className='navbar-logo' src='EV_WhiteLogo.png' alt='Nav-Logo' />
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -42,6 +42,15 @@ function Navbar() {
               >
                 Resume
               </a>
+            </li>
+            <li className='nav-item'>
+              <Link
+                to='/Contact'
+                className='nav-links'
+                onClick={closeMobileMenu}
+              >
+                Contact
+              </Link>
             </li>
           </ul>
         </div>
