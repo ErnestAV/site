@@ -19,7 +19,7 @@ function JobsCards() {
               href='https://amazon.jobs/en/teams/lab126/'
               src='images/AmazonLab126_logo.png'
               text='Amazon Lab126'
-              label='Software Development Engineer Intern'
+              label='Software Engineer Intern'
             />
           </ul>
           <ul className='cards__items'>

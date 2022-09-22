@@ -36,7 +36,7 @@ function Navbar() {
             <li className='nav-item'>
               <a
                 className='nav-links'
-                href='documents/Ernesto_Resume.pdf'
+                href='documents/Ernesto_Resume_UTD.pdf'
                 target='_blank'
                 onClick={closeMobileMenu}
               >
