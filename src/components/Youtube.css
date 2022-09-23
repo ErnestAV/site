@@ -86,6 +86,12 @@
 }
 
 @media screen and (max-width: 768px) {
+
+  .youtube-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
   .flexbox-container {
     flex-direction: column-reverse;
     flex-wrap: wrap;
@@ -104,6 +110,10 @@
   .youtube-title-box > h1 {
     font-size: 30px;
     white-space: normal;
+  }
+
+  .youtube-container .youtube-title-box > h1 {
+    text-align: center;
   }
 
   .youtube-title-box > p {
