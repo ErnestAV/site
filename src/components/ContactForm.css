@@ -3,9 +3,13 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding: 60px;
-    /* background-color: rgb(38, 40, 41); */
-    background: url('/images/bg-texture.jpeg') center center/cover no-repeat;
+    padding: 2rem;
+    background: url('/images/bg-contact.png') center center/cover no-repeat;
+}
+
+.bg-image {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
 }
 
 .contact-container > h1 {
@@ -25,7 +29,7 @@
     display: flex;
     flex-direction: column;
     border: 2px black;
-    width: 50%;
+    width: 75%;
     background-color: rgba(247, 247, 247, 0.813);
     padding: 20px;
     border-radius: 20px;

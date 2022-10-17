@@ -20,14 +20,11 @@ function HeroSection() {
                 <br></br>
               </p>
               <Link to='/Contact'>
-                <Button buttonStyle='btn--outline'><i class="fas fa-id-card"></i> Message Me!</Button>
+                <Button buttonStyle='btn--outline'><i className="fas fa-id-card"></i> Message Me!</Button>
               </Link> &nbsp;&nbsp;
-              <a
-                href='documents/Ernesto_Resume.pdf'
-                target='_blank'
-              >
-                <Button buttonStyle='btn--outline'><i class="fas fa-scroll"></i> Resume</Button>
-              </a>
+              {/* <Link to='/documents/Ernesto_Resume_UTD.pdf'>
+                <Button buttonStyle='btn--outline'><i className="fas fa-scroll"></i> Resume</Button>
+              </Link> */}
             </div>
           </div>
           <div className='flexbox-child'>
@@ -36,12 +33,11 @@ function HeroSection() {
               src='images/youtube_photo.png'
               alt='Youtube Profile'
               draggable="false"
-              ondragstart="return false;"
             />
           </div>
         </div>
       </div>
-    </Parallax>
+    </Parallax >
   );
 }
 

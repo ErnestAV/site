@@ -11,13 +11,13 @@ function JobsCards() {
           <ul className='cards__items'>
             <CardItem
               href='https://www.dish.com/'
-              src='images/dish-sling.jpeg'
-              text='DISH Network | Sling TV'
+              src='images/SlingTv-Dark.jpeg'
+              text='Sling TV'
               label='Associate Software Engineer'
             />
             <CardItem
               href='https://amazon.jobs/en/teams/lab126/'
-              src='images/AmazonLab126_logo.png'
+              src='images/Amazon_logo.png'
               text='Amazon Lab126'
               label='Software Engineer Intern'
             />
@@ -25,19 +25,19 @@ function JobsCards() {
           <ul className='cards__items'>
             <CardItem
               href='https://beatbread.com/'
-              src='images/beatBread_logo.jpeg'
+              src='images/beatBread_logo.png'
               text='beatBread'
               label='Software Engineer Intern'
             />
             <CardItem
               href='https://cs.byu.edu/'
-              src='images/byu_off.png'
+              src='images/byu_logo.png'
               text='BYU Computer Science'
               label='Research/Teaching Assistant'
             />
             <CardItem
               href='https://applaudostudios.com/'
-              src='images/applaudoStudios_logo2.png'
+              src='images/applaudoStudios_logo.jpeg'
               text='Applaudo Studios'
               label='Software Engineer Trainee'
             />

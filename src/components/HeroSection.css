@@ -51,6 +51,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  .hero-container {
+    background: url('/images/personal_mobile.png') center center/cover no-repeat;
+  }
+
   .title-box {
     width: 100%;
   }

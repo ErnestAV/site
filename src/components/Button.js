@@ -19,9 +19,9 @@ export const Button = ({
   const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
   return (
-    <a 
-      href='/' 
-      target='_blank' 
+    <a
+      href='/'
+      target='_blank'
       className='btn-mobile'
       rel="noopener noreferrer">
       <button
