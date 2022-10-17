@@ -10,7 +10,7 @@ function JobsCards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              href='https://www.dish.com/'
+              href='https://www.sling.com/'
               src='images/SlingTv-Dark.jpeg'
               text='Sling TV'
               label='Associate Software Engineer'
@@ -21,14 +21,14 @@ function JobsCards() {
               text='Amazon Lab126'
               label='Software Engineer Intern'
             />
-          </ul>
-          <ul className='cards__items'>
             <CardItem
               href='https://beatbread.com/'
-              src='images/beatBread_logo.png'
+              src='images/beatBreadPB.jpg'
               text='beatBread'
               label='Software Engineer Intern'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               href='https://cs.byu.edu/'
               src='images/byu_logo.png'
@@ -40,6 +40,12 @@ function JobsCards() {
               src='images/applaudoStudios_logo.jpeg'
               text='Applaudo Studios'
               label='Software Engineer Trainee'
+            />
+            <CardItem
+              href='https://beatbread.com/'
+              src='images/grupoRoble.jpeg'
+              text='Grupo Roble'
+              label='Technical Support Specialist'
             />
           </ul>
         </div>

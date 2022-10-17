@@ -21,14 +21,14 @@ function ProjectsCards() {
               text='Family Map'
               label='Java/Android App'
             />
-          </ul>
-          <ul className='cards__items'>
             <CardItem
               href='https://github.com/ErnestAV/BloodMatchingProjectOld'
               src='images/bmp_logo.jpeg'
               text='Blood Matching Project'
               label='C++/Modified for NDA'
             />
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               href='https://github.com/ErnestAV/SpellingCorrector'
               src='images/sc_logo.png'
@@ -39,7 +39,13 @@ function ProjectsCards() {
               href='https://github.com/ErnestAV/ConvexSolver'
               src='images/convex_logo.jpeg'
               text='Convex Solver'
-              label='Python'
+              label='Python/PyQt5'
+            />
+            <CardItem
+              href='https://github.com/ErnestAV/DailyGoalVerses'
+              src='images/DailyGoalVerses.jpeg'
+              text='Daily Goal Verses'
+              label='Java'
             />
           </ul>
         </div>

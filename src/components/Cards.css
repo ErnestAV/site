@@ -1,25 +1,27 @@
 .cards {
-  padding: 2rem;
+  /* padding: 2rem; */
   padding-top: 4rem;
   background: #fff;
 }
 
 h1 {
   text-align: center;
+  font-size: 46px;
 }
 
 .cards__container {
   display: flex;
   flex-flow: column;
   align-items: center;
-  max-width: 1120px;
-  width: 90%;
+  /* max-width: 1120px; */
+  width: 100%;
   margin: 0 auto;
 }
 
 .cards__wrapper {
   position: relative;
   margin: 50px 0 45px;
+  /* width: 75%; */
 }
 
 .cards__items {
@@ -83,6 +85,7 @@ h1 {
   max-height: 100%;
   object-fit: cover;
   transition: all 0.2s linear;
+  background-color: black;
 }
 
 .cards__item__img:hover {
@@ -94,7 +97,8 @@ h1 {
 }
 
 .cards__item__text {
-  color: #252e48;
+  /* color: #252e48; */
+  color: rgb(78, 78, 78);
   font-size: 26px;
   line-height: 26px;
   text-align: center;
@@ -102,7 +106,7 @@ h1 {
 
 @media only screen and (min-width: 1200px) {
   .content__blog__container {
-    width: 84%;
+    width: 90%;
   }
 }
 
