@@ -27,7 +27,7 @@ function Footer() {
             </a>
             <a
               className='social-icon-link twitter'
-              href='/'
+              href='https://www.linkedin.com/in/ernestovalenciaav/'
               target='_blank'
               aria-label='LinkedIn'
               rel="noopener noreferrer"

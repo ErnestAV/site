@@ -6,7 +6,7 @@
 
 h1 {
   text-align: center;
-  font-size: 46px;
+  font-size: 2.875rem; /* Converted to rem for better scalability */
 }
 
 .cards__container {
@@ -102,6 +102,14 @@ h1 {
   font-size: 26px;
   line-height: 26px;
   text-align: center;
+}
+
+.cards__item__team {
+  color: #888; /* lighter color */
+  font-size: 1rem;
+  text-align: center;
+  margin-top: auto; /* pushes the element to the bottom */
+  padding-top: 20px; /* additional space at the top */
 }
 
 @media only screen and (min-width: 1200px) {

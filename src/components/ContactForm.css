@@ -5,52 +5,48 @@
     flex-direction: column;
     padding: 2rem;
     background: url('/images/bg-contact.png') center center/cover no-repeat;
-}
-
-.bg-image {
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
+    font-family: 'Roboto', sans-serif; /* Add a modern font */
 }
 
 .contact-container > h1 {
-    display: flex;
     color: white;
+    text-transform: uppercase; /* Make the title uppercase */
+    letter-spacing: 2px; /* Add some letter spacing */
+    margin-bottom: 1rem; /* Add some bottom margin */
 }
 
 .contact-container > p {
-    display: flex;
     color: white;
-    padding: 5px;
+    margin-bottom: 2rem; /* Add some bottom margin */
+    text-align: center; /* Center the text */
 }
 
 .form-container {
-    margin-top: 20px;
-    margin-bottom: 20px;
     display: flex;
     flex-direction: column;
-    border: 2px black;
-    width: 75%;
-    background-color: rgba(247, 247, 247, 0.813);
-    padding: 20px;
+    background-color: #ffffff;
+    padding: 2rem;
     border-radius: 20px;
-    box-shadow: 5px 10px 40px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); /* Make the box shadow softer */
+    width: 100%;
+    max-width: 600px; /* Add a max width */
 }
 
 .btn-container {
     display: flex;
     justify-content: center;
-    align-items: center;
+    margin-top: 2rem; /* Add some top margin */
 }
 
-.form-container > input {
-    padding: 5px;
-}
-
-.form-container > textarea {
-    padding: 5px;
+.form-container > input, .form-container > textarea {
+    padding: 0.5rem;
+    margin-bottom: 1rem; /* Add some bottom margin */
+    border: 1px solid #cccccc;
+    border-radius: 5px; /* Make the corners slightly rounded */
 }
 
 .form-container > label {
-    padding: 2px;
-    color: rgb(69, 69, 69);
+    margin-bottom: 0.5rem; /* Add some bottom margin */
+    color: #333333;
+    display: block; /* Make the label a block element */
 }

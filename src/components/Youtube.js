@@ -15,9 +15,16 @@ function HeroSection() {
               <h1>Ernesto Valencia</h1>
               <h3>Software Engineer</h3>
               <p>
-                Brigham Young University <br></br>
-                Computer Science, Software Engineering emphasis <br></br>
-                <br></br>
+                <span className='info-text'>Institution: </span>
+                <span className='info-text'>Brigham Young University</span>
+              </p>
+              <p>
+                <span className='info-text'>Degree: </span>
+                <span className='info-text'>Bachelor of Science in Computer Science</span>
+              </p>
+              <p>
+                <span className='info-text'>Emphasis: </span>
+                <span className='info-text'>Software Engineering</span>
               </p>
               <Link to='/Contact'>
                 <Button buttonStyle='btn--outline'><i className="fas fa-id-card"></i> Message Me!</Button>

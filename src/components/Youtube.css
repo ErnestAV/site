@@ -67,6 +67,10 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
+.youtube-container .youtube-title-box > p .info-text {
+  color: rgb(255, 255, 255);
+}   
+
 .hero-btns {
   margin-top: 32px;
 }
@@ -130,4 +134,3 @@
     width: 80%;
   }
 }
-  
